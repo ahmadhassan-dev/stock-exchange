@@ -1,6 +1,7 @@
 # stock_exchange application
 
 This is two screens small project which i wrote for showing how I architect my project and handle the complexity of production level application 
+
 Feel free to contact if you have any suggestions how to make it more better.
 
 ## Getting Started
