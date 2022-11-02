@@ -24,5 +24,5 @@ How to run
 
 1. Make sure you have latest Flutter SDK installed as it depends on latest one
 2. To run the project you just need to add https://marketstack.com/ api key in `lib/src/config/config.dart` in that file make a variable named `apiKey` and pass that API key to it.
-3. If you want to run test that I have implemented in the application simply run "flutter run".
+3. If you want to run test that I have implemented in the application simply run "flutter test".
 
